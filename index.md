@@ -8,7 +8,7 @@ technologies worldwide.
 
 #What is UHF RFID?
 
-<center><img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/RFIDConcept011921.png"></center>
+<center><img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/RFIDConcept011921.png" width="25%"></center>
 
 UHF RFID is a technology in which a reader and a tag communicate at a 
 distance of up to 2 to 20 meters, depending on the specifics of the setup.
@@ -20,7 +20,7 @@ quickly and <i>en masse</i>.
 
 #Where is UHF RFID used?
 
-<center><img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/UHF_RFID_Uses_011921.png"></center>
+<center><img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/UHF_RFID_Uses_011921.png" width="25%"></center>
 
 Typically, UHF RFID is used when precise identification is needed at a distance.
 While computer vision is increasingly used for this purpose, privacy concerns
@@ -29,7 +29,7 @@ valuable in several key market segments.
 
 #Are there other types of RFID?
 
-<center><img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/LF_RFID_Tag_011921.png"></center>
+<center><img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/LF_RFID_Tag_011921.png" width="25%"></center>
 
 Yes, High-Frequency (HF) tags are often used for hotel key card and book tracking.
 Low-frequency (LF) tags are often used for animal tracking and key fobs.
