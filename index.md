@@ -8,7 +8,7 @@ technologies worldwide.
 
 #What is UHF RFID?
 
-<center><img src="https://raw.githubusercontent.com/surfer-rfid/surfer-rfid.github.io/blob/main/RFIDConcept011921.png"></center>
+<center><img src="https://raw.githubusercontent.com/surfer-rfid/surfer-rfid.github.io/master/assets/RFIDConcept011921.png"></center>
 
 UHF RFID is a technology in which a reader and a tag communicate at a 
 distance of up to 2 to 20 meters, depending on the specifics of the setup.
