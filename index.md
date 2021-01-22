@@ -120,8 +120,8 @@ publications and a poster. At this conference, it won the following awards:
 - Best Paper: Honorable Mention
 - Best Poster: Expert Vote
 
-
-![](./BestPaperHonMention_Resized.png) | ![](./BestPoster_Resized.png)
+| -------------------------------------- | ----------------------------- |
+| ![](./BestPaperHonMention_Resized.png) | ![](./BestPoster_Resized.png) |
 
 Since then, the S.U.R.F.E.R. project has been invited to appear:
 
