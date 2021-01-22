@@ -97,7 +97,7 @@ Within a given application, however, programming permits:
 In the case of S.U.R.F.E.R., the flexible nature permits customized implementations
 of RFID protocols for industrial or academic research. Multi-$1000 software-defined
 radio platforms with high-end FPGAs have traditionally been used for this purpose
-but they are bulky and expensive. Conversely, the small size and BOM cost ofthe 
+but they are bulky and expensive. Conversely, the small size and BOM cost of the 
 S.U.R.F.E.R. facilitates experimentation with installations requiring many readers.
 
 Flexibility through choice of component selection can mean:
@@ -111,6 +111,27 @@ and MCUs with extensive documentation.
 - Lower prices as time goes on.
 The generic IC market is large and is not going away. In fact, it will probably get bigger.
 We can therefore expect that the price of ICs in this market will drop as time goes on.
+
+# Publications and Awards
+
+The S.U.R.F.E.R. project was originally described at the 2018 IEEE RFID Conference in two
+publications and a poster. At this conference, it won the following awards:
+
+- Best Paper: Honorable Mention
+- Best Poster: Expert Vote
+
+<center><img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/BestPaperHonMention_Resized.png" width="25%"><img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/BestPoster_Resized.png" width="25%"></center>
+
+Since then, the S.U.R.F.E.R. project has been invited to appear:
+
+- At the RFID Workshop at the 2019 IEEE International Microwave Symposium
+- In the March 2021 issue of IEEE Microwave Magazine.
+
+# Collaborations
+
+Currently, the S.U.R.F.E.R. is being evaluated by academic partners in
+machine learning systems which detect and interpret actions applied to 
+objects with UHF RFID tags applied to them.
 
 
 
