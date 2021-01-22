@@ -61,8 +61,8 @@ digital interface, a field-programmable gate array (FPGA), and some sort of
 higher-level computing element such as a microcontroller unit (MCU).
 
 For example, while S.U.R.F.E.R. has special circuitry to help it operate 
-as a UHF RFID reader, it could just as easily operate as a utility montoring 
-hub or a radio control in the 860-960MHz range with new MCU and FPGA flash images.
+as a UHF RFID reader, it could just as easily operate as a utility monitoring 
+hub, or a radio control in the 860-960MHz range with new MCU and FPGA flash images.
 
 Software-defined systems are advantageous over systems comprised of hardened
 ASICs in terms of flexibility, and often in terms of economic considerations.
