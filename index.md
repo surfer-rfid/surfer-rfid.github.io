@@ -135,7 +135,10 @@ machine learning systems [which detect and interpret actions applied to
 objects with UHF RFID tags applied to them](https://www.youtube.com/watch?v=Ii06qwOgaEI ).
 
 
-
+ID | Name | Rank
+-- | ---- | ----
+1 | Tom Preston-Werner | Awesome
+2 | Albert Einstein | Nearly as awesome
 
 
 
