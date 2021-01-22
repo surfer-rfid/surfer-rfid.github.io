@@ -118,8 +118,8 @@ The S.U.R.F.E.R. project was originally described at the [2018 IEEE RFID Confere
 in two publications and a poster. At this conference, it won the following awards:
 
 | Best Paper: Honorable Mention | Best Poster: Expert Vote |
-| -------------------------------------- | ----------------------------- |
-| <img src="./BestPaperHonMention_Resized.png" width="25%"> | <img src="./BestPoster_Resized.png" width="25%"> |
+| --- | --- |
+| <img src="./BestPaperHonMention_Resized.png" width="50%"> | <img src="./BestPoster_Resized.png" width="50%"> |
 
 Since then, the S.U.R.F.E.R. project has been invited to appear:
 
