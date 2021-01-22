@@ -1,6 +1,6 @@
 # About S.U.R.F.E.R.
 
-<b>S.U.R.F.E.R</b> is an acronym for: 
+<b>S.U.R.F.E.R.</b> is an acronym for: 
 <b>S</b>oftware-Defined <b>U</b>HF <b>R</b>FID 
 <b>F</b>lexible <b>E</b>conomical <b>R</b>eader.
 
@@ -18,8 +18,8 @@ The reader interrogates the tag to obtain information such as a unique ID
 or environmental characteristics, such as temperature or air pressure.
 
 UHF RFID tags are either active or passive. Active UHF RFID tags are partially
-powered by a battery, while passive tags power themselves through ambient RF,
-most often from the reader itself. Passive UHF RFID tags are incredibly 
+powered by a battery, while passive tags power themselves through ambient radio 
+energy, most often from the reader itself. Passive UHF RFID tags are incredibly 
 cheap, ranging down to $0.05 per tag in bulk, and often come with adhesive backing. 
 This means that they can be deployed quickly and <i>en masse</i>, with little regard
 to long-term maintenance requirements.
@@ -45,8 +45,8 @@ to explore novel use cases of UHF RFID.
 
 Yes, High-Frequency (HF) tags are often used for hotel key card and book tracking.
 Low-frequency (LF) tags are often used for animal tracking and key fobs.
-The ranges and data rates of these systems are substantially smaller than for UHF RFID; 
-however, the lower frequency confers other advantages such as good performance near objects
+The ranges and data rates of these systems are substantially smaller than for UHF RFID. 
+However, the lower frequency confers other advantages such as good performance near objects
 made of metal or living tissue.
 
 # What is Software-Defined?
@@ -74,10 +74,10 @@ With the advent of low-cost flexible radio ICs and FPGAs, building systems which
 required such ASICs now becomes attractive to do so in a software-defined manner.
 
 The core of the S.U.R.F.E.R. design consists of a flexible radio integrated
-circuit (IC), a transmit (TX) cancellation network, and an FPGA that all together costs 
+circuit (IC), a transmit (TX) cancellation network, and an FPGA that altogether costs 
 about $9 USD in bulk. Comparable setups using specialized UHF RFID reader ASICs can 
-cost 2.5x-5x this amount. The S.U.R.F.E.R. core design can also be controlled by a low-cost
-ARM Cortex-M0 MCU with 256kB of flash memory.
+cost 2.5x-5x this amount. The S.U.R.F.E.R. core design can also be controlled by a 
+low-cost ARM Cortex-M0 MCU with 256kB of flash memory.
 
 # Flexibility
 
