@@ -120,7 +120,8 @@ publications and a poster. At this conference, it won the following awards:
 - Best Paper: Honorable Mention
 - Best Poster: Expert Vote
 
-|<img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/BestPaperHonMention_Resized.png" width="25%"> | <img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/BestPoster_Resized.png" width="25%"> |
+| --- | --- |
+| <img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/BestPaperHonMention_Resized.png" width="25%"> | <img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/BestPoster_Resized.png" width="25%"> |
 
 Since then, the S.U.R.F.E.R. project has been invited to appear:
 
