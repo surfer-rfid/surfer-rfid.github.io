@@ -79,7 +79,7 @@ about $9 USD in bulk. Comparable setups using specialized UHF RFID reader ASICs 
 cost 2.5x-5x this amount. The S.U.R.F.E.R. core design can also be controlled by a 
 low-cost ARM Cortex-M0 MCU with 256kB of flash memory.
 
-# Flexibility
+# Flexible
 
 <center><img src="./SDR_Change_Cartoon_011821.png" width=500/></center>
 
