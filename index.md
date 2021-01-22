@@ -10,7 +10,7 @@ worldwide.
 
 # What is UHF RFID?
 
-<center><img src="./RFIDConcept011921.png" width=500/></center>
+<center><img src="./assets/images/RFIDConcept011921.png" width=500/></center>
 
 UHF RFID is a technology in which a reader and a tag communicate at a 
 distance of up to 2 to 20 meters, depending on the specifics of the setup.
@@ -26,7 +26,7 @@ to long-term maintenance requirements.
 
 # Where is UHF RFID used?
 
-<center><img src="./UHF_RFID_Uses_011921.png" width=500/></center>
+<center><img src="./assets/images/UHF_RFID_Uses_011921.png" width=500/></center>
 
 Typically, UHF RFID is used when precise identification is needed at a distance.
 While computer vision is increasingly used for this purpose, UHF RFID is still 
@@ -41,7 +41,7 @@ to explore novel use cases of UHF RFID.
 
 # Are there other types of RFID?
 
-<center><img src="./LF_RFID_Tag_011921.png" width=500/></center>
+<center><img src="./assets/images/LF_RFID_Tag_011921.png" width=500/></center>
 
 Yes, High-Frequency (HF) tags are often used for hotel key card and book tracking.
 Low-frequency (LF) tags are often used for animal tracking and key fobs.
@@ -51,7 +51,7 @@ made of metal or living tissue.
 
 # What is Software-Defined?
 
-<center><img src="./SDR_Concept_Cartoon_011821.png" width=500/></center>
+<center><img src="./assets/images/SDR_Concept_Cartoon_011821.png" width=500/></center>
 
 Software-defined refers to a method of building electronic systems with 
 non-application-specific physical components and adding specificity through 
@@ -81,7 +81,7 @@ low-cost ARM Cortex-M0 MCU with 256kB of flash memory.
 
 # Flexible
 
-<center><img src="./SDR_Change_Cartoon_011821.png" width=500/></center>
+<center><img src="./assets/images/SDR_Change_Cartoon_011821.png" width=500/></center>
 
 Software-defined systems provide flexibility in two ways:
 
@@ -119,7 +119,7 @@ in two publications and a poster. At this conference, it won the following award
 
 | Best Paper: Honorable Mention | Best Poster: Expert Vote |
 | --- | --- |
-| <img src="./BestPaperHonMention_Resized.png" width=225/> | <img src="./BestPoster_Resized.png" width=225/> |
+| <img src="./assets/images/BestPaperHonMention_Resized.png" width=225/> | <img src="./assets/images/BestPoster_Resized.png" width=225/> |
 
 Since then, the S.U.R.F.E.R. project has been invited to appear:
 
