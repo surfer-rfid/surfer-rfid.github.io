@@ -120,7 +120,7 @@ publications and a poster. At this conference, it won the following awards:
 - Best Paper: Honorable Mention
 - Best Poster: Expert Vote
 
-<center><img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/BestPaperHonMention_Resized.png" width="25%"><img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/BestPoster_Resized.png" width="25%"></center>
+|<img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/BestPaperHonMention_Resized.png" width="25%"> | <img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/BestPoster_Resized.png" width="25%"> |
 
 Since then, the S.U.R.F.E.R. project has been invited to appear:
 
@@ -130,8 +130,8 @@ Since then, the S.U.R.F.E.R. project has been invited to appear:
 # Collaborations
 
 Currently, the S.U.R.F.E.R. is being evaluated by academic partners in
-machine learning systems which detect and interpret actions applied to 
-objects with UHF RFID tags applied to them.
+machine learning systems [which detect and interpret actions applied to 
+objects with UHF RFID tags applied to them](https://www.youtube.com/watch?v=Ii06qwOgaEI ).
 
 
 
