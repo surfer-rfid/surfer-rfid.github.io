@@ -114,7 +114,7 @@ We can therefore expect that the price of ICs in this market will drop as time g
 
 # Publications and Awards
 
-The S.U.R.F.E.R. project was originally described at the [2018 IEEE RFID Conference](https://https://2018.ieee-rfid.org/) in two
+The S.U.R.F.E.R. project was originally described at the [2018 IEEE RFID Conference](https://2018.ieee-rfid.org/) in two
 publications and a poster. At this conference, it won the following awards:
 
 - Best Paper: Honorable Mention
@@ -124,8 +124,8 @@ publications and a poster. At this conference, it won the following awards:
 
 Since then, the S.U.R.F.E.R. project has been invited to appear:
 
-- At the RFID Workshop at the 2019 IEEE International Microwave Symposium
-- In the March 2021 issue of IEEE Microwave Magazine.
+- At the RFID Workshop at the [2019 IEEE International Microwave Symposium](https://2019.ims-ieee.org/)
+- In the March 2021 issue of [IEEE Microwave Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6668).
 
 # Collaborations
 
