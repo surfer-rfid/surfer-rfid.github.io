@@ -120,12 +120,12 @@ publications and a poster. At this conference, it won the following awards:
 - Best Paper: Honorable Mention
 - Best Poster: Expert Vote
 
-| --- | --- |
-| <img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/BestPaperHonMention_Resized.png" width="25%"> | <img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/BestPoster_Resized.png" width="25%"> |
+
+<img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/BestPaperHonMention_Resized.png" width="25%"> | <img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/BestPoster_Resized.png" width="25%">
 
 Since then, the S.U.R.F.E.R. project has been invited to appear:
 
-- At the RFID Workshop at the [2019 IEEE International Microwave Symposium](https://2019.ims-ieee.org/)
+- At the RFID Workshop at the [2019 IEEE International Microwave Symposium](https://2019.ims-ieee.org/).
 - In the March 2021 issue of [IEEE Microwave Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6668).
 
 # Collaborations
