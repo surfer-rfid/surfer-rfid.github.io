@@ -31,9 +31,9 @@ Typically, UHF RFID is used when precise identification is needed at a distance.
 While computer vision is increasingly used for this purpose, UHF RFID is still 
 an attractive option going forward in markets where:
 
--Concerns about privacy discourage use of video monitoring (e.g. inside the home).
--There exists a lack of repeatable visual identifiers (e.g. skiiers with masked faces).
--Identification must be kept in a secure and hidden location (e.g. inside of tires).
+- Concerns about privacy discourage use of video monitoring (e.g. inside the home).
+- There exists a lack of repeatable visual identifiers (e.g. skiiers with masked faces).
+- Identification must be kept in a secure and hidden location (e.g. inside of tires).
 
 It is our hope that researchers and hobbyists alike can use the S.U.R.F.E.R. platform
 to explore novel use cases of UHF RFID.
@@ -78,18 +78,19 @@ Software-defined systems provide flexibility in two ways:
 The first of these has already been discussed. 
 Within a given application, however, programming permits:
 
--Over-the-air feature and bug updates to hardware.
--Easy, real-time, experimentation with novel system modifications.
+- Over-the-air feature and bug updates to hardware.
+- Easy, real-time, experimentation with novel system modifications.
 
 Flexibility through choice of component selection can mean:
 
--Reduced risk of part obsolecence or lack of availability.
+- Reduced risk of part obsolecence or lack of availability.
 Sometimes chip product lines are discontinued or are purchased by a vendor
 who makes working with the chip difficult. On the other hand, it's safe
 to assume that there will always be publicly available flexible radio chips, FPGAs,
 and MCUs with extensive documentation.
 
--
+- Balh Blah
+More blah
 
 
 # Economical
