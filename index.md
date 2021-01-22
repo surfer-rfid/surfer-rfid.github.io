@@ -121,7 +121,7 @@ publications and a poster. At this conference, it won the following awards:
 - Best Poster: Expert Vote
 
 
-<img src="./BestPaperHonMention_Resized.png" width="25%"> | <img src="./BestPoster_Resized.png" width="25%">
+![](./BestPaperHonMention_Resized.png) | ![](./BestPoster_Resized.png)
 
 Since then, the S.U.R.F.E.R. project has been invited to appear:
 
