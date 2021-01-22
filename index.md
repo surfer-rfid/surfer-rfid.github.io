@@ -18,7 +18,8 @@ The reader interrogates the tag to obtain information such as a unique ID
 or environmental characteristics, such as temperature or air pressure.
 
 UHF RFID tags are either active or passive. Active UHF RFID tags are partially
-powered by a battery, while passive tags are not. Passive UHF RFID tags are incredibly 
+powered by a battery, while passive tags power themselves through ambient RF,
+most often from the reader itself. Passive UHF RFID tags are incredibly 
 cheap, ranging down to $0.05 per tag in bulk, and often come with adhesive backing. 
 This means that they can be deployed quickly and <i>en masse</i>, with little regard
 to long-term maintenance requirements.
