@@ -117,10 +117,7 @@ We can therefore expect that the price of ICs in this market will drop as time g
 The S.U.R.F.E.R. project was originally described at the [2018 IEEE RFID Conference](https://2018.ieee-rfid.org/) in two
 publications and a poster. At this conference, it won the following awards:
 
-- Best Paper: Honorable Mention
-- Best Poster: Expert Vote
-
-| Column 1 | Column 2 |
+| Best Paper: Honorable Mention | Best Poster: Expert Vote |
 | -------------------------------------- | ----------------------------- |
 | ![](./BestPaperHonMention_Resized.png) | ![](./BestPoster_Resized.png) |
 
