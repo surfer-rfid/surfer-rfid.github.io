@@ -24,8 +24,8 @@ quickly and <i>en masse</i>.
 
 Typically, UHF RFID is used when precise identification is needed at a distance.
 While computer vision is increasingly used for this purpose, privacy concerns
-and lack of repeatable external identifiers means that UHF RFID is still 
-valuable in several key market segments.
+and lack of repeatable external identifiers mean that UHF RFID is still 
+a competitive option in several key market segments.
 
 # Are there other types of RFID?
 
