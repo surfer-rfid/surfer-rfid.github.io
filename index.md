@@ -55,7 +55,7 @@ made of metal or living tissue.
 Software-defined refers to a method of building electronic systems with 
 non-application-specific physical components and adding specificity through 
 programmable means. A software-defined radio system typically contains a 
-wideband radio transceiver circuit which exposes raw data bits at its
+wideband radio transceiver integrated circuit (IC) which exposes raw data bits at its
 digital interface, a field-programmable gate array (FPGA), and some sort of
 higher-level computing element such as a microcontroller unit (MCU).
 
@@ -65,6 +65,18 @@ hub or a radio control in the 860-960MHz range with new MCU and FPGA flash image
 
 Software-defined systems are advantageous over systems comprised of hardened
 ASICs in terms of flexibility, and often in terms of economic considerations.
+
+# Economical
+
+Publicly accessible application-specific integrated circuits (ASICs) can often be expensive.
+With the advent of low-cost flexible radio ICs and FPGAs, building systems which previously
+required such ASICs now becomes attractive to do so in a software-defined manner.
+
+The core of the S.U.R.F.E.R. design consists of a flexible radio integrated
+circuit (IC), a transmit (TX) cancellation network, and an FPGA that all together costs 
+about $9 USD in bulk. Comparable setups using specialized UHF RFID reader ASICs can 
+cost 2.5x-5x this amount. The S.U.R.F.E.R. core design can also be controlled by a low-cost
+ARM Cortex-M0 MCU with 256kB of flash memory.
 
 # Flexibility
 
@@ -81,6 +93,12 @@ Within a given application, however, programming permits:
 - Over-the-air feature and bug updates to hardware.
 - Easy, real-time, experimentation with novel system modifications.
 
+In the case of S.U.R.F.E.R., the flexible nature permits customized implementations
+of RFID protocols for industrial or academic research. Multi-$1000 software-defined
+radio platforms with high-end FPGAs have traditionally been used for this purpose
+but they are bulky and expensive. Conversely, the small size and BOM cost ofthe 
+S.U.R.F.E.R. facilitates experimentation with installations requiring many readers.
+
 Flexibility through choice of component selection can mean:
 
 - Reduced risk of part obsolecence or lack of availability.
@@ -89,11 +107,9 @@ who makes working with the chip difficult. On the other hand, it's safe
 to assume that there will always be publicly available flexible radio chips, FPGAs,
 and MCUs with extensive documentation.
 
-- Balh Blah
-More blah
-
-
-# Economical
+- Lower prices as time goes on.
+The generic IC market is large and is not going away. In fact, it will probably get bigger.
+We can therefore expect that the price of ICs in this market will drop as time goes on.
 
 
 
