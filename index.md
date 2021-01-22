@@ -6,7 +6,7 @@ Broadly, the goal of the S.U.R.F.E.R. program is to increase
 the proliferation of UHF RFID and other long-range backscatter 
 technologies worldwide.
 
-#What is UHF RFID?
+# What is UHF RFID?
 
 <center><img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/RFIDConcept011921.png" width="50%"></center>
 
@@ -18,7 +18,7 @@ UHF RFID tags are incredibly cheap, ranging down to $0.05 per tag in bulk,
 and often come with adhesive backing, meaning that they can be deployed
 quickly and <i>en masse</i>.
 
-#Where is UHF RFID used?
+# Where is UHF RFID used?
 
 <center><img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/UHF_RFID_Uses_011921.png" width="50%"></center>
 
@@ -27,7 +27,7 @@ While computer vision is increasingly used for this purpose, privacy concerns
 and lack of repeatable external identifiers means that UHF RFID is still 
 valuable in several key market segments.
 
-#Are there other types of RFID?
+# Are there other types of RFID?
 
 <center><img src="https://github.com/surfer-rfid/surfer-rfid.github.io/blob/main/LF_RFID_Tag_011921.png" width="50%"></center>
 
