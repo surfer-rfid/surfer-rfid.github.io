@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # About S.U.R.F.E.R.
 
 <b>S.U.R.F.E.R.</b> is an acronym for: 
