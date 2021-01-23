@@ -25,11 +25,13 @@
     <header class="page-header" role="banner">
       <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
 
-      <center><img src="/assets/images/surfer_logo_side.png" width="65%"></center>
+      <div class="verticalhorizontal">
+          <img src="/assets/images/surfer_logo_side.png" width="65%">
+      </div>
 
       <!--<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
 
-      <a href="https://github.com/surfer-rfid" class="btn-dark">View on GitHub</a>
+      <a href="https://github.com/surfer-rfid" class="btn-surfer">View on GitHub</a>
 
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
