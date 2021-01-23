@@ -9,6 +9,8 @@ layout: default
 <b>S</b>oftware-Defined <b>U</b>HF <b>R</b>FID 
 <b>F</b>lexible <b>E</b>conomical <b>R</b>eader.
 
+<center><img src="./assets/images/Reader_Unit_Web.png" width=500/></center>
+
 Broadly, the goal of the S.U.R.F.E.R. program is to increase the 
 proliferation of UHF RFID and other long-range backscatter technologies 
 worldwide.
