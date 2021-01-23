@@ -5,19 +5,21 @@ layout: default
 
 # About S.U.R.F.E.R.
 
+<b>S.U.R.F.E.R.</b> is a low-cost, open, UHF RFID reader platform.
+
 <b>S.U.R.F.E.R.</b> is an acronym for: 
 <b>S</b>oftware-Defined <b>U</b>HF <b>R</b>FID 
 <b>F</b>lexible <b>E</b>conomical <b>R</b>eader.
 
-<center><img src="./assets/images/Reader_Unit_Web.png" width=500/></center>
+<center><img src="./assets/images/Reader_Unit_Web.png" width="65%"></center>
 
 Broadly, the goal of the S.U.R.F.E.R. program is to increase the 
-proliferation of UHF RFID and other long-range backscatter technologies 
-worldwide.
+proliferation and use cases of UHF RFID and other long-range backscatter 
+technologies worldwide.
 
 # What is UHF RFID?
 
-<center><img src="./assets/images/RFIDConcept011921.png" width=500/></center>
+<center><img src="./assets/images/RFIDConcept011921.png" width="65%"></center>
 
 UHF RFID is a technology in which a reader and a tag communicate at a 
 distance of up to 2 to 20 meters, depending on the specifics of the setup.
@@ -25,7 +27,7 @@ The reader interrogates the tag to obtain information such as a unique ID
 or environmental characteristics, such as temperature or air pressure.
 
 UHF RFID tags are either active or passive. Active UHF RFID tags are partially
-powered by a battery, while passive tags power themselves through ambient radio 
+powered by a battery. Passive tags power themselves through ambient radio 
 energy, most often from the reader itself. Passive UHF RFID tags are incredibly 
 cheap, ranging down to $0.05 per tag in bulk, and often come with adhesive backing. 
 This means that they can be deployed quickly and <i>en masse</i>, with little regard
@@ -33,7 +35,7 @@ to long-term maintenance requirements.
 
 # Where is UHF RFID used?
 
-<center><img src="./assets/images/UHF_RFID_Uses_011921.png" width=500/></center>
+<center><img src="./assets/images/UHF_RFID_Uses_011921.png" width="65%"></center>
 
 Typically, UHF RFID is used when precise identification is needed at a distance.
 While computer vision is increasingly used for this purpose, UHF RFID is still 
@@ -48,7 +50,7 @@ to explore novel use cases of UHF RFID.
 
 # Are there other types of RFID?
 
-<center><img src="./assets/images/LF_RFID_Tag_011921.png" width=500/></center>
+<center><img src="./assets/images/LF_RFID_Tag_011921.png" width="65%"></center>
 
 Yes, High-Frequency (HF) tags are often used for hotel key card and book tracking.
 Low-frequency (LF) tags are often used for animal tracking and key fobs.
@@ -58,7 +60,7 @@ made of metal or living tissue.
 
 # What is Software-Defined?
 
-<center><img src="./assets/images/SDR_Concept_Cartoon_011821.png" width=500/></center>
+<center><img src="./assets/images/SDR_Concept_Cartoon_011821.png" width="65%"></center>
 
 Software-defined refers to a method of building electronic systems with 
 non-application-specific physical components and adding specificity through 
@@ -88,7 +90,7 @@ low-cost ARM Cortex-M0 MCU with 256kB of flash memory.
 
 # Flexible
 
-<center><img src="./assets/images/SDR_Change_Cartoon_011821.png" width=500/></center>
+<center><img src="./assets/images/SDR_Change_Cartoon_011821.png" width="65%"></center>
 
 Software-defined systems provide flexibility in two ways:
 
