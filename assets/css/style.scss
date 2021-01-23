@@ -9,9 +9,12 @@ $theme-color-2: #FF6600;
 .page-header{
 color:#FFFFFF;
 background-color:#FFFFFF;
-/*background-image:linear-gradient(120deg,$theme-color-1,$theme-color-2);*/
-background: url('/assets/images/Reader_Lighten_Gray_web.png') top center fixed no-repeat;
+background-image: url('/assets/images/Reader_Lighten_Gray_Web.png');
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: center top;
 background-size: contain;
+background-border: border-box;
 }
 
 .main-content{
