@@ -7,14 +7,29 @@ $theme-color-2: #FF6600;
 @import 'jekyll-theme-cayman';
 
 .page-header{
-color:#FFFFFF;
-background-color:#FFFFFF;
-background-image: url('/assets/images/Reader_Lighten_Gray_Web.png');
-background-attachment: fixed;
-background-repeat: no-repeat;
-background-position: center top;
-background-size: contain;
-background-border: border-box;
+
+  text-align: center;
+  color:#FFFFFF;
+  background-color:#FFFFFF;
+  background-image: url('/assets/images/Reader_Lighten_Gray_Large_Web.png');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+  background-border: border-box;
+
+
+  @include large {
+    padding: 5rem 6rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
+  }
+
+  @include small {
+    padding: 2rem 1rem;
+  }
 }
 
 .main-content{
@@ -37,7 +52,7 @@ a {
   display: inline-block;
   margin-bottom: 1rem;
   color: rgba(255, 102, 0, 0.7);
-  background-color: rgba(255, 102, 0, 0.08);
+  background-color: rgba(255, 102, 0, 0.04);
   border-color: rgba(255, 102, 0, 0.2);
   border-style: solid;
   border-width: 1px;
@@ -51,7 +66,7 @@ a {
     border-color: rgba(255, 102, 0, 0.3);
   }
 
-  + .btn {
+  + .btn-surfer {
     margin-left: 1rem;
   }
 
@@ -70,7 +85,7 @@ a {
     padding: 0.75rem;
     font-size: 0.9rem;
 
-    + .btn {
+    + .btn-surfer {
       margin-top: 1rem;
       margin-left: 0;
     }
