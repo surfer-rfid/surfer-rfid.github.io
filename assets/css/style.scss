@@ -1,0 +1,23 @@
+---
+---
+
+$theme-color-1: #800000;
+$theme-color-2: #FF6600;
+
+@import 'jekyll-theme-cayman';
+
+.page-header{
+color:#FFFFFF;
+background-color:#FFFFFF;
+background-image:linear-gradient(120deg,$theme-color-1,$theme-color-2);
+}
+
+.main-content{
+    h1 {
+       color:$theme-color-1;
+      }
+}
+
+a {
+    color:$theme-color-2;
+}
