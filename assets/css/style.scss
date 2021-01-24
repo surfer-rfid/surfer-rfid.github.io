@@ -47,7 +47,8 @@ a {
 .center_vert_horiz {
     display: table-cell;
     text-align: center;
-    vertical-align: middle;
+    vertical-align: top;
+    margin-bottom: 1rem;
 }
 
 .project-tagline {
