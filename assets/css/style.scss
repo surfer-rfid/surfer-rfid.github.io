@@ -47,11 +47,11 @@ a {
 .center_vert_horiz {
     text-align: center;
     vertical-align: middle;
-    margin-bottom: 1rem;
+    margin-bottom: 0rem;
 }
 
 .project-tagline {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   font-family:"Pathway Gothic One";
   font-weight: normal;
   color: rgba(255, 102, 0, 1);
@@ -103,7 +103,7 @@ a {
   @include small {
     display: block;
     width: 100%;
-    padding: 0.75rem;
+    padding: 0.25rem;
     font-size: 0.9rem;
 
     + .btn-surfer {
