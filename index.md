@@ -21,6 +21,10 @@ technologies worldwide.
 
 <center><img src="./assets/images/RFIDConcept011921.png" width="65%"></center>
 
+<b>UHF</b> is an acronym for: <b>U</b>ltra <b>H</b>igh <b>F</b>requency.
+
+<b>RFID</b> is an acronym for: <b>R</b>adio <b>F</b>requency <b>ID</b>entification.
+
 UHF RFID is a technology in which a reader and a tag communicate at a 
 distance of up to 2 to 20 meters, depending on the specifics of the setup.
 The reader interrogates the tag to obtain information such as a unique ID
@@ -74,13 +78,14 @@ as a UHF RFID reader, it could just as easily operate as a utility monitoring
 hub, or a radio control in the 860-960MHz range with new MCU and FPGA flash images.
 
 Software-defined systems are advantageous over systems comprised of hardened
-ASICs in terms of flexibility, and often in terms of economic considerations.
+application-specific integrated circuits (ASICs) in terms of flexibility, 
+and often in terms of economic considerations.
 
 # Economical
 
-Publicly accessible application-specific integrated circuits (ASICs) can often be expensive.
-With the advent of low-cost flexible radio ICs and FPGAs, building systems which previously
-required such ASICs now becomes attractive to do so in a software-defined manner.
+Publicly accessible ASICs can often be expensive. With the advent of low-cost flexible 
+radio ICs and FPGAs, building systems which previously required such ASICs now becomes 
+attractive to do so in a software-defined manner.
 
 The core of the S.U.R.F.E.R. design consists of a flexible radio integrated
 circuit (IC), a transmit (TX) cancellation network, and an FPGA that altogether costs 
@@ -106,8 +111,8 @@ Within a given application, however, programming permits:
 In the case of S.U.R.F.E.R., the flexible nature permits customized implementations
 of RFID protocols for industrial or academic research. Multi-$1000 software-defined
 radio platforms with high-end FPGAs have traditionally been used for this purpose
-but they are bulky and expensive. Conversely, the small size and BOM cost of the 
-S.U.R.F.E.R. facilitates experimentation with installations requiring many readers.
+but they are bulky and expensive. Conversely, the small size and bill-of-material (BOM) 
+cost of the S.U.R.F.E.R. facilitates experimentation with installations requiring many readers.
 
 Flexibility through choice of component selection can mean:
 
