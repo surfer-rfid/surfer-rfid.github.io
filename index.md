@@ -15,7 +15,7 @@ layout: default
 
 Broadly, the goal of the S.U.R.F.E.R. program is to increase the 
 proliferation and use cases of UHF RFID and other long-range backscatter 
-technologies worldwide.
+communications technologies worldwide.
 
 # What is UHF RFID?
 
@@ -106,7 +106,7 @@ The first of these has already been discussed.
 Within a given application, however, programming permits:
 
 - Over-the-air feature and bug updates to hardware.
-- Easy, real-time, experimentation with novel system modifications.
+- Easy, real-time experimentation with novel system modifications.
 
 In the case of S.U.R.F.E.R., the flexible nature permits customized implementations
 of RFID protocols for industrial or academic research. Multi-$1000 software-defined
@@ -129,7 +129,7 @@ We can therefore expect that the price of ICs in this market will drop as time g
 # Publications and Awards
 
 The S.U.R.F.E.R. project was originally described at the [2018 IEEE RFID Conference](https://2018.ieee-rfid.org/) 
-in two publications and a poster. At this conference, it won the following awards:
+in two publications and a poster accompanied by a live demonstration. At this conference, it won the following awards:
 
 | Best Paper: Honorable Mention | Best Poster: Expert Vote |
 | --- | --- |
