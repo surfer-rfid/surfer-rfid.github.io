@@ -17,6 +17,9 @@ Broadly, the goal of the S.U.R.F.E.R. program is to increase the
 proliferation and use cases of UHF RFID and other long-range backscatter 
 communications technologies worldwide.
 
+For detailed information about how to use and understand the technical
+aspects of the S.U.R.F.E.R., please visit the [project wiki](https://github.com/surfer-rfid/surfer-rfid-wiki/wiki).
+
 # What is UHF RFID?
 
 <center><img src="./assets/images/RFIDConcept011921.png" width="65%"></center>
