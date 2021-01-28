@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-
-
 # About S.U.R.F.E.R.
 
 <b>S.U.R.F.E.R.</b> is a low-cost, open UHF RFID reader platform.
