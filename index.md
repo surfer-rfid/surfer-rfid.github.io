@@ -147,5 +147,10 @@ Currently, the S.U.R.F.E.R. is being evaluated by academic partners in
 machine learning systems [which detect and interpret actions applied to 
 objects with UHF RFID tags applied to them](https://www.youtube.com/watch?v=Ii06qwOgaEI ).
 
+# Contact
+
+The S.U.R.F.E.R. project was initiated and is currently maintained by [Superlative Semiconductor LLC](http://www.super-semi.com).
+Please direct any inquiries regarding the S.U.R.F.E.R. project [here](mailto:surfer@super-semi.com).
+
 
 
