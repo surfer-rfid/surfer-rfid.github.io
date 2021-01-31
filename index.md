@@ -22,7 +22,7 @@ aspects of the S.U.R.F.E.R., please visit the [project wiki](https://github.com/
 
 <center><img src="./assets/images/RFIDConcept011921.png" width="65%"></center>
 
-<b>UHF</b> is an acronym for: <b>U</b>ltra <b>H</b>igh <b>F</b>requency.
+<b>UHF</b> is an acronym for: <b>U</b>ltra <b>H</b>igh <b>F</b>requency. (860-960MHz)
 
 <b>RFID</b> is an acronym for: <b>R</b>adio <b>F</b>requency <b>ID</b>entification.
 
