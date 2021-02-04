@@ -50,8 +50,8 @@ an attractive option going forward in markets where:
 - There exists a lack of repeatable visual identifiers (e.g. skiiers with masked faces).
 - Identification must be kept in a secure and hidden location (e.g. inside of tires).
 
-It is our hope that researchers and hobbyists alike can use the S.U.R.F.E.R. platform
-to explore novel use cases of UHF RFID.
+It is our hope that researchers and students in the laboratory, in industry, or in 
+the garage can use the S.U.R.F.E.R. platform to explore novel use cases of UHF RFID.
 
 # Are there other types of RFID?
 
