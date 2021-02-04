@@ -113,7 +113,8 @@ In the case of S.U.R.F.E.R., the flexible nature permits customized implementati
 of RFID protocols for industrial or academic research. Multi-$1000 software-defined
 radio platforms with high-end FPGAs have traditionally been used for this purpose
 but they are bulky and expensive. Conversely, the small size and bill-of-material (BOM) 
-cost of the S.U.R.F.E.R. facilitates experimentation with installations requiring many readers.
+cost of the S.U.R.F.E.R. facilitates experimentation with installations requiring many 
+UHF RFID readers.
 
 Flexibility through choice of component selection can mean:
 
